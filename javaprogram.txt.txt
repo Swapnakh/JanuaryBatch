@@ -4,3 +4,15 @@ public static void main(String args[])
  System.out.println("HelloWorld")
 
 }
+
+100 countries list of stmts 50 states
+store 
+
+dropdown- 150 countries- multiselect 3 countries slected 
+
+country - key -
+
+JayPatel- HP
+Neeraja -Tmobile
+Chandana-Tmobile
+Lalitha Varanasi-Equinix
